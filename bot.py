@@ -28,4 +28,4 @@ async def on_message(message):
 
 
 # 봇을 실행시키기 위한 토큰을 작성해주는 곳
-client.run('NzY0MTA2MDk1NjE0MjMwNTQ5.X4BbQQ.KxNivFIx0QQTP31fnGcfnCtP9hA')
+client.run('NzY0MTA2MDk1NjE0MjMwNTQ5.X4BbQQ.xyFNad2tc4Gooh4RsNqGZYJX-M8')
